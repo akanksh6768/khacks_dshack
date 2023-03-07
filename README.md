@@ -14,12 +14,13 @@ Social_Network.csv
 <summary><h2>About Assignment 1</h2></summary>
 **Data Visualization Assignment**
   We have used the Titanic.csv dataset and created 12 graphs using pandas, matplotlib.
+ </details>
 <details id=2>
-<summary><h2>Sub_section_2</h2></summary>
+<summary><h2>About Assignment 2</h2></summary>
 **  Machine Learning Model**
   We have used the Social_Network.csv dataset and created a mahcine learning model using the KNN classification algorithm.The model analyses the performance of the    classifier with various performance measures such as confusion matrix, accuracy, recall, precision, specificity, f-score, Receiver operating characteristic (ROC) curve and Area Under Curve (AUC) score. g and displays the information in a graph. Also, the model displays the accuracy details of Kmean=3,5,7,9,11.
   
  
   
   
-#Thak You!
+#Thank You!
