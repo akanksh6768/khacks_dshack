@@ -1,4 +1,4 @@
-# Project Title
+# Data Science for Social Good by KHacks
 
 **Team Members:**
 - **NAME**:Akanksh M.
