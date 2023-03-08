@@ -23,8 +23,7 @@ Social_Network.csv
 <details id=3>
   <summary><h2>About the Problem Statement</h2></summary>
   <h2>Machine Learning Model for understanding rainfall pattern</h2>
-  This ML model analyses and understands the rainfall pattern considering the district-wise rainfall data from the datasets.
-  <i>Model Under Development</i>
+  This ML model analyses and understands the rainfall pattern considering the district-wise rainfall data from the dataset. The model is made using linearregression. The model accepts the user input of any district of tamil nadu and displays the data of the 4 seasons and the rainfall pattern of the district of the 4 seasons. 
 </details>
  
   
